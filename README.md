@@ -51,59 +51,59 @@ Here are the different topics covered in this repository along with links to the
 
 ### Basics of Programming - 1
 
-- Questions related to basics of programming - 1: [Basics of Programming - 1](https://github.com/realharshgautam/DSA/Basics%20of%20Programming%20-%201)
+- Questions related to basics of programming - 1: [Basics of Programming - 1](https://github.com/realharshgautam/DSA/tree/main/1.%20Basics%20of%20Programming%20-%201)
 
 ### Basics of Programming - 2
 
-- Questions related to basics of programming - 2: [Basics of Programming - 2](https://github.com/realharshgautam/DSA/Basics%20of%20Programming%20-%202)
+- Questions related to basics of programming - 2: [Basics of Programming - 2](https://github.com/realharshgautam/DSA/tree/main/2.%20Basics%20of%20Programming%20-%202)
 
 ### Arrays, Time & Space Complexity
 
-- Questions related to arrays, time complexity, and space complexity: [Arrays, Time & Space Complexity](https://github.com/realharshgautam/DSA/Arrays,%20Time%20&%20Space%20Complexity)
+- Questions related to arrays, time complexity, and space complexity: [Arrays, Time & Space Complexity](https://github.com/realharshgautam/DSA/tree/main/3.%20Arrays%2C%20Time%20%26%20Space%20Complexity)
 
 ### Searching & Sorting
 
-- Questions related to searching and sorting algorithms: [Searching & Sorting](https://github.com/realharshgautam/DSA/Searching%20&%20Sorting)
+- Questions related to searching and sorting algorithms: [Searching & Sorting](https://github.com/realharshgautam/DSA/tree/main/4.%20Searching%20%26%20Sorting)
 
 ### Char Arrays & Strings
 
-- Questions related to character arrays and strings: [Char Arrays & Strings](https://github.com/realharshgautam/DSA/Char%20Arrays%20&%20Strings)
+- Questions related to character arrays and strings: [Char Arrays & Strings](https://github.com/realharshgautam/DSA/tree/main/5.%20Char%20Arrays%20%26%20Strings)
 
 ### Basic Maths & Pointers
 
-- Questions related to basic mathematics and pointers: [Basic Maths & Pointers](https://github.com/realharshgautam/DSA/Basic%20Maths%20&%20Pointers)
+- Questions related to basic mathematics and pointers: [Basic Maths & Pointers](https://github.com/realharshgautam/DSA/tree/main/6.%20Basic%20Maths%20%26%20Pointers)
 
 ### Recursion & Backtracking
 
-- Questions related to recursion and backtracking: [Recursion & Backtracking](https://github.com/realharshgautam/DSA/Recursion%20&%20Backtracking)
+- Questions related to recursion and backtracking: [Recursion & Backtracking](https://github.com/realharshgautam/DSA/tree/main/7.%20Recursion%20%26%20Backtracking)
 
 ### Divide & Conquer, Time Complexity & Space Complexity
 
-- Questions related to divide and conquer, time complexity, and space complexity: [Divide & Conquer, Time Complexity & Space Complexity](https://github.com/realharshgautam/DSA/Divide%20&%20Conquer,%20Time%20Complexity%20&%20Space%20Complexity)
+- Questions related to divide and conquer, time complexity, and space complexity: [Divide & Conquer, Time Complexity & Space Complexity](https://github.com/realharshgautam/DSA/tree/main/8.%20Divide%20%26%20Conquer%2C%20Time%20Complexity%20%26%20Space%20Complexity)
 
 ### OOP
 
-- Questions related to Object-Oriented Programming: [OOP](https://github.com/realharshgautam/DSA/OOP)
+- Questions related to Object-Oriented Programming: [OOP](https://github.com/realharshgautam/DSA/tree/main/9.%20OOPs)
 
 ### Linked Lists
 
-- Questions related to linked lists: [Linked Lists](https://github.com/realharshgautam/DSA/Linked%20Lists)
+- Questions related to linked lists: [Linked Lists](https://github.com/realharshgautam/DSA/tree/main/10.%20Linked%20Lists)
 
 ### Stacks
 
-- Questions related to stacks: [Stacks](https://github.com/realharshgautam/DSA/Stacks)
+- Questions related to stacks: [Stacks](https://github.com/realharshgautam/DSA/tree/main/11.%20Stacks)
 
 ### Queues
 
-- Questions related to queues: [Queues](https://github.com/realharshgautam/DSA/Queues)
+- Questions related to queues: [Queues](https://github.com/realharshgautam/DSA/tree/main/12.%20Queues)
 
 ### Trees - 1
 
-- Questions related to trees - 1: [Trees - 1](https://github.com/realharshgautam/DSA/Trees%20-%201)
+- Questions related to trees - 1: [Trees - 1](https://github.com/realharshgautam/DSA/tree/main/13.%20Trees%20-%201)
 
 ### Binary Search Trees
 
-- Questions related to binary search trees: [Binary Search Trees](https://github.com/realharshgautam/DSA/Binary%20Search%20Trees)
+- Questions related to binary search trees: [Binary Search Trees](https://github.com/realharshgautam/DSA/tree/main/14.%20Binary%20Search%20Trees)
 
 ## License
 
