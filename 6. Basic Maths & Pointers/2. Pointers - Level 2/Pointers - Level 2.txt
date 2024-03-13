@@ -1,0 +1,15 @@
+arrays
+difference in arrays and pointers
+why is it giving ERROR??
+char arrays and pointers
+char and char pointer
+bad practice
+pointers with functions
+
+HOMEWORK
+read about
+    benifits of topics we learn in this lecture
+    pointer to functions
+        points to the address of the first line of the code of the corresponding function they point to
+        passing functions to another function as an argument
+        https://www.geeksforgeeks.org/function-pointer-in-cpp/
