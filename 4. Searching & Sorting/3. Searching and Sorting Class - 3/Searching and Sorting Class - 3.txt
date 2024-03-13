@@ -1,0 +1,16 @@
+binary search in nearly sorted array
+divide 2 numbers using binary search
+find odd occuring element
+
+HOMEWORK
+find division upto given precision
+find pairs with diff 'k' in an array
+find k closest elements to a given value in a sorted array
+exponential search
+unbounded BS
+adv BS questions
+    book allocation
+    painter partition
+    aggressive cows
+    EKO spoj
+    PARATA spoj
