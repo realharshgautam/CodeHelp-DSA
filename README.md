@@ -48,7 +48,7 @@ Here are the different topics covered in this repository along with links to the
 
 ### Basics Of Programming
 
-- Questions related to array manipulation and algorithms: [Basics Of Programming](/topics/basics-of-programming)
+- Questions related to array manipulation and algorithms: [Basics Of Programming](https://github.com/realharshgautam/DSA/tree/084ac8b8bd1cdf3798dfd405230d488ae959a4d6/1.%20Basics%20of%20Programming%20-%201)
 
 ### Array
 
