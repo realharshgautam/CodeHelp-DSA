@@ -8,6 +8,8 @@ Welcome to the DSA repository! This repository is dedicated to organizing Data S
 2. [Usage](#usage)
 3. [Contributing](#contributing)
 4. [Topics](#topics)
+   
+    - [Basics Of Programming](#basics-of-programming)
     - [Array](#array)
     - [Linked List](#linked-list)
     - [Stack](#stack)
@@ -17,7 +19,7 @@ Welcome to the DSA repository! This repository is dedicated to organizing Data S
     - [Sorting](#sorting)
     - [Searching](#searching)
     - [Dynamic Programming](#dynamic-programming)
-5. [License](#license)
+6. [License](#license)
 
 ## Introduction
 
@@ -43,6 +45,10 @@ Please ensure your pull request follows the repository's guidelines and includes
 ## Topics
 
 Here are the different topics covered in this repository along with links to their respective directories:
+
+### Basics Of Programming
+
+- Questions related to array manipulation and algorithms: [Basics Of Programming](/topics/basics-of-programming)
 
 ### Array
 
