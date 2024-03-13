@@ -8,18 +8,21 @@ Welcome to the DSA repository! This repository is dedicated to organizing Data S
 2. [Usage](#usage)
 3. [Contributing](#contributing)
 4. [Topics](#topics)
-   
-    - [Basics Of Programming](#basics-of-programming)
-    - [Array](#array)
-    - [Linked List](#linked-list)
-    - [Stack](#stack)
-    - [Queue](#queue)
-    - [Tree](#tree)
-    - [Graph](#graph)
-    - [Sorting](#sorting)
-    - [Searching](#searching)
-    - [Dynamic Programming](#dynamic-programming)
-6. [License](#license)
+    - [Basics of Programming - 1](#basics-of-programming---1)
+    - [Basics of Programming - 2](#basics-of-programming---2)
+    - [Arrays, Time & Space Complexity](#arrays-time--space-complexity)
+    - [Searching & Sorting](#searching--sorting)
+    - [Char Arrays & Strings](#char-arrays--strings)
+    - [Basic Maths & Pointers](#basic-maths--pointers)
+    - [Recursion & Backtracking](#recursion--backtracking)
+    - [Divide & Conquer, Time Complexity & Space Complexity](#divide--conquer-time-complexity--space-complexity)
+    - [OOP](#oop)
+    - [Linked Lists](#linked-lists)
+    - [Stacks](#stacks)
+    - [Queues](#queues)
+    - [Trees - 1](#trees---1)
+    - [Binary Search Trees](#binary-search-trees)
+5. [License](#license)
 
 ## Introduction
 
@@ -46,47 +49,63 @@ Please ensure your pull request follows the repository's guidelines and includes
 
 Here are the different topics covered in this repository along with links to their respective directories:
 
-### Basics Of Programming
+### Basics of Programming - 1
 
-- Questions related to Basics Of Programming 1: [Basics Of Programming](https://github.com/realharshgautam/DSA/tree/084ac8b8bd1cdf3798dfd405230d488ae959a4d6/1.%20Basics%20of%20Programming%20-%201)
-- Basics Of Programming 2: [Basics Of Programming 2](https://github.com/realharshgautam/DSA/tree/815b46aeacef2aef12b048cc35e1c569a3037704/2.%20Basics%20of%20Programming%20-%202)
+- Questions related to basics of programming - 1: [Basics of Programming - 1](https://github.com/realharshgautam/DSA/Basics%20of%20Programming%20-%201)
 
-### Array
+### Basics of Programming - 2
 
-- Questions related to array manipulation and algorithms: [Array](/topics/array)
+- Questions related to basics of programming - 2: [Basics of Programming - 2](https://github.com/realharshgautam/DSA/Basics%20of%20Programming%20-%202)
 
-### Linked List
+### Arrays, Time & Space Complexity
 
-- Problems and solutions involving linked lists: [Linked List](/topics/linked-list)
+- Questions related to arrays, time complexity, and space complexity: [Arrays, Time & Space Complexity](https://github.com/realharshgautam/DSA/Arrays,%20Time%20&%20Space%20Complexity)
 
-### Stack
+### Searching & Sorting
 
-- Stack-based questions and implementations: [Stack](/topics/stack)
+- Questions related to searching and sorting algorithms: [Searching & Sorting](https://github.com/realharshgautam/DSA/Searching%20&%20Sorting)
 
-### Queue
+### Char Arrays & Strings
 
-- Queue-related problems and solutions: [Queue](/topics/queue)
+- Questions related to character arrays and strings: [Char Arrays & Strings](https://github.com/realharshgautam/DSA/Char%20Arrays%20&%20Strings)
 
-### Tree
+### Basic Maths & Pointers
 
-- Tree data structure and algorithms: [Tree](/topics/tree)
+- Questions related to basic mathematics and pointers: [Basic Maths & Pointers](https://github.com/realharshgautam/DSA/Basic%20Maths%20&%20Pointers)
 
-### Graph
+### Recursion & Backtracking
 
-- Graph traversal and algorithms: [Graph](/topics/graph)
+- Questions related to recursion and backtracking: [Recursion & Backtracking](https://github.com/realharshgautam/DSA/Recursion%20&%20Backtracking)
 
-### Sorting
+### Divide & Conquer, Time Complexity & Space Complexity
 
-- Sorting algorithms and related problems: [Sorting](/topics/sorting)
+- Questions related to divide and conquer, time complexity, and space complexity: [Divide & Conquer, Time Complexity & Space Complexity](https://github.com/realharshgautam/DSA/Divide%20&%20Conquer,%20Time%20Complexity%20&%20Space%20Complexity)
 
-### Searching
+### OOP
 
-- Searching algorithms and techniques: [Searching](/topics/searching)
+- Questions related to Object-Oriented Programming: [OOP](https://github.com/realharshgautam/DSA/OOP)
 
-### Dynamic Programming
+### Linked Lists
 
-- Dynamic programming problems and solutions: [Dynamic Programming](/topics/dynamic-programming)
+- Questions related to linked lists: [Linked Lists](https://github.com/realharshgautam/DSA/Linked%20Lists)
+
+### Stacks
+
+- Questions related to stacks: [Stacks](https://github.com/realharshgautam/DSA/Stacks)
+
+### Queues
+
+- Questions related to queues: [Queues](https://github.com/realharshgautam/DSA/Queues)
+
+### Trees - 1
+
+- Questions related to trees - 1: [Trees - 1](https://github.com/realharshgautam/DSA/Trees%20-%201)
+
+### Binary Search Trees
+
+- Questions related to binary search trees: [Binary Search Trees](https://github.com/realharshgautam/DSA/Binary%20Search%20Trees)
 
 ## License
 
 This repository is licensed under the [MIT License](LICENSE). Feel free to use the code and contribute to the repository following the guidelines mentioned in the [Contributing](#contributing) section.
+
