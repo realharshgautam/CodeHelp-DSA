@@ -1,6 +1,18 @@
-# DSA (Data Structures and Algorithms)
 
-Welcome to the DSA repository! This repository is dedicated to organizing Data Structures and Algorithms questions and their solutions topic-wise.
+
+<h1 align="center">
+  <br> 
+    <img src="https://www.codehelp.in/_next/image?url=%2Fassets%2FCommon%2FWhitelogoGIF.gif&w=640&q=75" alt="CodeHelp Logo" width="auto">
+  <br>
+  DSA (Data Structures and Algorithms) - Love Babbar's Supreme Batch
+  <br>
+</h1>
+
+
+<!-- Description -->
+<p>
+  Welcome to the ultimate hub for Love Babbar's DSA Supreme Batch! This repository is your one-stop destination for everything related to the DSA Supreme Batch by Love Babbar. From comprehensive DSA questions to detailed solutions, homework assignments, presentation materials, and code snippets - we've got it all covered!
+</p>
 
 ## Table of Contents
 
@@ -108,4 +120,3 @@ Here are the different topics covered in this repository along with links to the
 ## License
 
 This repository is licensed under the [MIT License](LICENSE). Feel free to use the code and contribute to the repository following the guidelines mentioned in the [Contributing](#contributing) section.
-
